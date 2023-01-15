@@ -20,15 +20,16 @@ if (a > b)
         Console.WriteLine($"Наибольшее число равно {a}");
     }
 }
-    else if (a > c)
-        {
-            Console.WriteLine($"Наибольшее число равно {a}");
-        }
-     else if (b > c)
+    else if (b > c)
         {
             Console.WriteLine($"Наибольшее число равно {b}");
         }
-else
+     else if (c > a)
+        {
+            Console.WriteLine($"Наибольшее число равно {c}");
+        }
+        
+else 
         {
             Console.WriteLine($"Наибольшее число равно {c}");
         } 
