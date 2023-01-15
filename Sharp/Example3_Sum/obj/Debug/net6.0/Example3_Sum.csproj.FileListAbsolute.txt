@@ -1,0 +1,15 @@
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example3_Sum/bin/Debug/net6.0/Example3_Sum
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example3_Sum/bin/Debug/net6.0/Example3_Sum.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example3_Sum/bin/Debug/net6.0/Example3_Sum.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example3_Sum/bin/Debug/net6.0/Example3_Sum.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example3_Sum/bin/Debug/net6.0/Example3_Sum.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example3_Sum/obj/Debug/net6.0/Example3_Sum.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example3_Sum/obj/Debug/net6.0/Example3_Sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example3_Sum/obj/Debug/net6.0/Example3_Sum.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example3_Sum/obj/Debug/net6.0/Example3_Sum.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example3_Sum/obj/Debug/net6.0/Example3_Sum.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example3_Sum/obj/Debug/net6.0/Example3_Sum.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example3_Sum/obj/Debug/net6.0/refint/Example3_Sum.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example3_Sum/obj/Debug/net6.0/Example3_Sum.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example3_Sum/obj/Debug/net6.0/Example3_Sum.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example3_Sum/obj/Debug/net6.0/ref/Example3_Sum.dll

@@ -1,0 +1,15 @@
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example4_Div/bin/Debug/net6.0/Example4_Div
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example4_Div/bin/Debug/net6.0/Example4_Div.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example4_Div/bin/Debug/net6.0/Example4_Div.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example4_Div/bin/Debug/net6.0/Example4_Div.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example4_Div/bin/Debug/net6.0/Example4_Div.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example4_Div/obj/Debug/net6.0/Example4_Div.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example4_Div/obj/Debug/net6.0/Example4_Div.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example4_Div/obj/Debug/net6.0/Example4_Div.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example4_Div/obj/Debug/net6.0/Example4_Div.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example4_Div/obj/Debug/net6.0/Example4_Div.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example4_Div/obj/Debug/net6.0/Example4_Div.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example4_Div/obj/Debug/net6.0/refint/Example4_Div.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example4_Div/obj/Debug/net6.0/Example4_Div.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example4_Div/obj/Debug/net6.0/Example4_Div.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example4_Div/obj/Debug/net6.0/ref/Example4_Div.dll

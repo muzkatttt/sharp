@@ -1,0 +1,15 @@
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example5_Masha/bin/Debug/net6.0/Example5_Masha
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example5_Masha/bin/Debug/net6.0/Example5_Masha.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example5_Masha/bin/Debug/net6.0/Example5_Masha.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example5_Masha/bin/Debug/net6.0/Example5_Masha.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example5_Masha/bin/Debug/net6.0/Example5_Masha.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example5_Masha/obj/Debug/net6.0/Example5_Masha.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example5_Masha/obj/Debug/net6.0/Example5_Masha.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example5_Masha/obj/Debug/net6.0/Example5_Masha.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example5_Masha/obj/Debug/net6.0/Example5_Masha.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example5_Masha/obj/Debug/net6.0/Example5_Masha.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example5_Masha/obj/Debug/net6.0/Example5_Masha.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example5_Masha/obj/Debug/net6.0/refint/Example5_Masha.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example5_Masha/obj/Debug/net6.0/Example5_Masha.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example5_Masha/obj/Debug/net6.0/Example5_Masha.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example5_Masha/obj/Debug/net6.0/ref/Example5_Masha.dll
