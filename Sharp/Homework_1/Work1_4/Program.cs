@@ -4,12 +4,12 @@
 
 Console.Write($"Введите число: ");
 int number = Convert.ToInt32(Console.ReadLine());
-int i = 0;
-while (i <= number)
+int count = 2;
+while (count <= number)
     {
-        if (i % 2 == 0);
+        if (count % 2 == 0);
         {
-            Console.WriteLine($"{i} ");
+            Console.Write($"{count} ");
         }
-    i = i + 1;
+        count = count + 2;
     }
