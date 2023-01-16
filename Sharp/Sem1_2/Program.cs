@@ -28,4 +28,7 @@ if (x==5)
   Console.Write("Пятница");
 }
 
-else if (x < 1 || x > 7);
+else if (x < 1 || x > 7)
+{
+  Console.Write($"Этого дня недели не существует");
+}

@@ -4,22 +4,23 @@
 8 -> 2, 4, 6, 8
 */
 
-Console.Write($"Введите число:  ");
-int N = Convert.ToInt32(Console.ReadLine());
-int num = 0;
-count = 0;
-
-if (N % 2 == 0)
-{ 
-    num = 0 + 2;
-    count = count +2;
+Console.Write("Введите число:  ");
+int number = Convert.ToInt32(Console.ReadLine());
+int count = 1;
+int a = 0;
+int b = 0;
+while(count >= 1 && count < N); 
     {
-        Console.WriteLine($"{N} ");
-        Console.WriteLine ($"{num}");
-    }
+        a % 2 == 0 = b;
+        Console.Write($"{b} ");
+        count+2; 
 }
 
-else if (N < 0)
-{
-    Console.WriteLine($"{N} не является положительным числом");
-}
+
+/* Console.Write("Введите число:  ");
+int number = int.Parse(Console.ReadLine()!);
+int count = -number;
+while(count <= number); {
+        Console.Write($"{count} ");
+        count++; // count++ равно count = count + 1
+} */
