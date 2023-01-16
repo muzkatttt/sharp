@@ -5,7 +5,7 @@
 */
 
 Console.WriteLine("Введите число: ");
-int number = Convert.ToInt32(Console.ReadLine());
+int number = Convert.ToInt32(Console.ReadLine()!);
 int count = 1;
 while(count <= number); 
         {
@@ -15,6 +15,7 @@ while(count <= number);
                 }
         }
 count = count + 2;
+Console.WriteLine($"{count}");
 
 /* Console.Write("Введите число:  ");
 int number = int.Parse(Console.ReadLine()!);
