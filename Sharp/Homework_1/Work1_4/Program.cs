@@ -4,17 +4,7 @@
 8 -> 2, 4, 6, 8
 */
 
-Console.WriteLine("Введите число: ");
-int number = Convert.ToInt32(Console.ReadLine());
-int count = 1;
-while(count <= number); 
-        {
-        if (count % 2 == 0);
-                {
-                Console.WriteLine($"{count} ");
-                }
-        }
-count = count + 2;
+
 
 /* Console.Write("Введите число:  ");
 int number = int.Parse(Console.ReadLine()!);
