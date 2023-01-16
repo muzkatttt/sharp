@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework_1/Work_1/Work_1.csproj": {}
+    "/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework_1/Work1_1/Work_1.csproj": {}
   },
   "projects": {
-    "/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework_1/Work_1/Work_1.csproj": {
+    "/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework_1/Work1_1/Work_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework_1/Work_1/Work_1.csproj",
+        "projectUniqueName": "/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework_1/Work1_1/Work_1.csproj",
         "projectName": "Work_1",
-        "projectPath": "/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework_1/Work_1/Work_1.csproj",
+        "projectPath": "/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework_1/Work1_1/Work_1.csproj",
         "packagesPath": "/Users/ekaterinarodionova/.nuget/packages/",
-        "outputPath": "/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework_1/Work_1/obj/",
+        "outputPath": "/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework_1/Work1_1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ekaterinarodionova/.nuget/NuGet/NuGet.Config"
