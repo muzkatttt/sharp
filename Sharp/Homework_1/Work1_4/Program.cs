@@ -9,9 +9,9 @@ int number = Convert.ToInt32(Console.ReadLine());
 int count = 1;
 int a = 0;
 int b = 0;
-while(count >= 1 && count < N); 
+while(count < N); 
     {
-        a % 2 == 0 = b;
+        a % 2 == 0;
         Console.Write($"{b} ");
         count+2; 
 }
