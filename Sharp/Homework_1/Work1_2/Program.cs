@@ -12,19 +12,19 @@ int b = Convert.ToInt32(Console.ReadLine());
 Console.Write($"Введите число 3:  ");
 int c = Convert.ToInt32(Console.ReadLine());
 
-if (a > b && a > c)
+if (a >= b && a >= c)
     { 
         Console.WriteLine($"Наибольшее число равно {a}");
     }
-else if (b > a && b > c)
+else if (b >= a && b >= c)
     {
         Console.WriteLine($"Наибольшее число равно {b}");
     }
-else if (a > b && c > a)
+else if (a >= b && c >= a)
         {
             Console.WriteLine($"Наибольшее число равно {c}");
         }
-else if (b > a && c > b)
+else if (b >= a && c >= b)
         {
             Console.WriteLine($"Наибольшее число равно {c}");
         }
