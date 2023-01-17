@@ -1,0 +1,15 @@
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example8_IntroMethod/bin/Debug/net6.0/Example8_IntroMethod
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example8_IntroMethod/bin/Debug/net6.0/Example8_IntroMethod.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example8_IntroMethod/bin/Debug/net6.0/Example8_IntroMethod.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example8_IntroMethod/bin/Debug/net6.0/Example8_IntroMethod.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example8_IntroMethod/bin/Debug/net6.0/Example8_IntroMethod.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example8_IntroMethod/obj/Debug/net6.0/Example8_IntroMethod.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example8_IntroMethod/obj/Debug/net6.0/Example8_IntroMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example8_IntroMethod/obj/Debug/net6.0/Example8_IntroMethod.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example8_IntroMethod/obj/Debug/net6.0/Example8_IntroMethod.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example8_IntroMethod/obj/Debug/net6.0/Example8_IntroMethod.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example8_IntroMethod/obj/Debug/net6.0/Example8_IntroMethod.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example8_IntroMethod/obj/Debug/net6.0/refint/Example8_IntroMethod.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example8_IntroMethod/obj/Debug/net6.0/Example8_IntroMethod.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example8_IntroMethod/obj/Debug/net6.0/Example8_IntroMethod.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example8_IntroMethod/obj/Debug/net6.0/ref/Example8_IntroMethod.dll
