@@ -3,15 +3,17 @@
 // 34, 5 -> не кратно, остаток 4
 // 16, 4 -> кратно
 
-int num1 = int.Parse(Console.ReadLine()!);
-int num2 = int.Parse(Console.ReadLine()!);
-
-int num3 = num1 % num2;
-if(num3 == 0)
+Console.Clear();
+Console.WriteLine($"Введите число 1:");
+int number1 = int.Parse(Console.ReadLine()!);
+Console.WriteLine($"Введите число 2:");
+int number2 = int.Parse(Console.ReadLine()!);
+int number3 = number1 % number2; 
+if(number3 == 0)
 {
-    Console.WriteLine($"Число {num1} кратно числу {num2}");
+    Console.WriteLine($"Число {number1} кратно числу {number2}");
 }
 else
 {
-    Console.WriteLine($"Число {num1} не кратно числу {num2}, остаток {num3}");
+    Console.WriteLine($"Число {number1} не кратно числу {number2}, остаток {number3}");
 }
