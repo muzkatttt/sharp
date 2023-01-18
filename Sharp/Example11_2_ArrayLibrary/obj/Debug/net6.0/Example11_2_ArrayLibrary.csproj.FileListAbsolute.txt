@@ -1,0 +1,15 @@
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example11_2_ArrayLibrary/obj/Debug/net6.0/Example11_2_ArrayLibrary.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example11_2_ArrayLibrary/obj/Debug/net6.0/Example11_2_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example11_2_ArrayLibrary/obj/Debug/net6.0/Example11_2_ArrayLibrary.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example11_2_ArrayLibrary/obj/Debug/net6.0/Example11_2_ArrayLibrary.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example11_2_ArrayLibrary/obj/Debug/net6.0/Example11_2_ArrayLibrary.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example11_2_ArrayLibrary/bin/Debug/net6.0/Example11_2_ArrayLibrary
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example11_2_ArrayLibrary/bin/Debug/net6.0/Example11_2_ArrayLibrary.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example11_2_ArrayLibrary/bin/Debug/net6.0/Example11_2_ArrayLibrary.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example11_2_ArrayLibrary/bin/Debug/net6.0/Example11_2_ArrayLibrary.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example11_2_ArrayLibrary/bin/Debug/net6.0/Example11_2_ArrayLibrary.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example11_2_ArrayLibrary/obj/Debug/net6.0/Example11_2_ArrayLibrary.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example11_2_ArrayLibrary/obj/Debug/net6.0/refint/Example11_2_ArrayLibrary.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example11_2_ArrayLibrary/obj/Debug/net6.0/Example11_2_ArrayLibrary.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example11_2_ArrayLibrary/obj/Debug/net6.0/Example11_2_ArrayLibrary.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example11_2_ArrayLibrary/obj/Debug/net6.0/ref/Example11_2_ArrayLibrary.dll
