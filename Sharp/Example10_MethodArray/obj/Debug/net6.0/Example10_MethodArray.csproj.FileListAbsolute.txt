@@ -1,0 +1,15 @@
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example10_MethodArray/bin/Debug/net6.0/Example10_MethodArray
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example10_MethodArray/bin/Debug/net6.0/Example10_MethodArray.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example10_MethodArray/bin/Debug/net6.0/Example10_MethodArray.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example10_MethodArray/bin/Debug/net6.0/Example10_MethodArray.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example10_MethodArray/bin/Debug/net6.0/Example10_MethodArray.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example10_MethodArray/obj/Debug/net6.0/Example10_MethodArray.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example10_MethodArray/obj/Debug/net6.0/Example10_MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example10_MethodArray/obj/Debug/net6.0/Example10_MethodArray.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example10_MethodArray/obj/Debug/net6.0/Example10_MethodArray.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example10_MethodArray/obj/Debug/net6.0/Example10_MethodArray.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example10_MethodArray/obj/Debug/net6.0/Example10_MethodArray.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example10_MethodArray/obj/Debug/net6.0/refint/Example10_MethodArray.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example10_MethodArray/obj/Debug/net6.0/Example10_MethodArray.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example10_MethodArray/obj/Debug/net6.0/Example10_MethodArray.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example10_MethodArray/obj/Debug/net6.0/ref/Example10_MethodArray.dll
