@@ -6,18 +6,11 @@
 Console.Clear();
 Console.WriteLine($"Введите число: ");
 int a = int.Parse(Console.ReadLine()!);
+if (a == 6 || a == 7)
 {
-  Console.Write("");
+  Console.Write("Да, выходной");
 }
-if (a < 6 && a > 0)
+else if (a >= 1 && a <=5)
 {
-  Console.Write("Нет, не выходной");
-}
-if (a > 5 && a < 8)
-{
-    Console.WriteLine($"Да, выходной");
-}
-if (a < 1 || a > 7)
-{
-    Console.WriteLine($"Введенное число не обозначает день недели");
+    Console.WriteLine($"Нет, не выходной");
 }

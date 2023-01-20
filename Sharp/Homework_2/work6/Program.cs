@@ -7,14 +7,14 @@ Console.Clear();
 Console.WriteLine($"Введите число: ");
 int x = int.Parse(Console.ReadLine()!);
 int x1 = x / 100;
-
+x1 = Math.Abs(x1); // возвращает положительное число
 if(x1 < 1)
 {
     Console.WriteLine($"Третьей цифры нет");
 }
-if(x1 >= 1) 
+else
 {
-    x1 = x / 100 % 10;
+    x1 %= 10; // x1 %= 10 деление на 
     Console.WriteLine($"Введенное число {x}, третья цифра числа {x1}");
 }
 
