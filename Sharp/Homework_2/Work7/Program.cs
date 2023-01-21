@@ -6,11 +6,15 @@
 Console.Clear();
 Console.WriteLine($"Введите число: ");
 int a = int.Parse(Console.ReadLine()!);
-if (a == 6 || a == 7)
+if (a == 6 || a == 7) // не писать много условий if! они будут все проверяться программой
 {
   Console.Write("Да, выходной");
 }
-else if (a >= 1 && a <=5)
+else if (a >= 1 && a <= 5) // else всегда охватывает условие, которое исключается из условия if
 {
     Console.WriteLine($"Нет, не выходной");
+}
+else
+{
+  Console.WriteLine($"Не является днем недели, введите другое число");
 }
