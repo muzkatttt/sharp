@@ -11,8 +11,7 @@ while (count <= n)
     {
         if (count < n) 
         Console.Write($"{Math.Pow(count, 3)}, ");
-        else 
-        Console.Write($"{Math.Pow(count, 3)}");
+        else Console.Write($"{Math.Pow(count, 3)}");
         count++;
     }
 
