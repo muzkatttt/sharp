@@ -8,12 +8,11 @@ Console.Write($"Введите число: ");
 int n = int.Parse(Console.ReadLine()!);
 int count = 1;
 while (count <= n)
-    {
-        if (count < n) 
-        Console.Write($"{Math.Pow(count, 3)}, ");
-        else Console.Write($"{Math.Pow(count, 3)}");
-        count++;
-    }
+{
+    Console.Write($"{Math.Pow(count, 3)}"); // Math.Pow - переводит в тип данных double
+    if (count < n) Console.Write(", ");
+    count++;
+}
 
 // второй вариант решения задачи
 // while (count <= n)
