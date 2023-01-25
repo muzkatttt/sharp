@@ -1,0 +1,15 @@
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/CycleFor/obj/Debug/net6.0/CycleFor.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/CycleFor/obj/Debug/net6.0/CycleFor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/CycleFor/obj/Debug/net6.0/CycleFor.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/CycleFor/obj/Debug/net6.0/CycleFor.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/CycleFor/obj/Debug/net6.0/CycleFor.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/CycleFor/bin/Debug/net6.0/CycleFor
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/CycleFor/bin/Debug/net6.0/CycleFor.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/CycleFor/bin/Debug/net6.0/CycleFor.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/CycleFor/bin/Debug/net6.0/CycleFor.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/CycleFor/bin/Debug/net6.0/CycleFor.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/CycleFor/obj/Debug/net6.0/CycleFor.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/CycleFor/obj/Debug/net6.0/refint/CycleFor.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/CycleFor/obj/Debug/net6.0/CycleFor.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/CycleFor/obj/Debug/net6.0/CycleFor.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/CycleFor/obj/Debug/net6.0/ref/CycleFor.dll

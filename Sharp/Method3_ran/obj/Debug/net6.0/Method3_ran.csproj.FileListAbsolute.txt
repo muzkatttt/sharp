@@ -1,0 +1,15 @@
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method3_ran/bin/Debug/net6.0/Method3_ran
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method3_ran/bin/Debug/net6.0/Method3_ran.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method3_ran/bin/Debug/net6.0/Method3_ran.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method3_ran/bin/Debug/net6.0/Method3_ran.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method3_ran/bin/Debug/net6.0/Method3_ran.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method3_ran/obj/Debug/net6.0/Method3_ran.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method3_ran/obj/Debug/net6.0/Method3_ran.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method3_ran/obj/Debug/net6.0/Method3_ran.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method3_ran/obj/Debug/net6.0/Method3_ran.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method3_ran/obj/Debug/net6.0/Method3_ran.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method3_ran/obj/Debug/net6.0/Method3_ran.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method3_ran/obj/Debug/net6.0/refint/Method3_ran.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method3_ran/obj/Debug/net6.0/Method3_ran.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method3_ran/obj/Debug/net6.0/Method3_ran.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method3_ran/obj/Debug/net6.0/ref/Method3_ran.dll

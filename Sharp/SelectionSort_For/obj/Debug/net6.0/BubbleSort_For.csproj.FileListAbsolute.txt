@@ -1,0 +1,15 @@
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/SelectionSort_For/bin/Debug/net6.0/BubbleSort_For
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/SelectionSort_For/bin/Debug/net6.0/BubbleSort_For.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/SelectionSort_For/bin/Debug/net6.0/BubbleSort_For.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/SelectionSort_For/bin/Debug/net6.0/BubbleSort_For.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/SelectionSort_For/bin/Debug/net6.0/BubbleSort_For.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/SelectionSort_For/obj/Debug/net6.0/BubbleSort_For.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/SelectionSort_For/obj/Debug/net6.0/BubbleSort_For.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/SelectionSort_For/obj/Debug/net6.0/BubbleSort_For.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/SelectionSort_For/obj/Debug/net6.0/BubbleSort_For.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/SelectionSort_For/obj/Debug/net6.0/BubbleSort_For.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/SelectionSort_For/obj/Debug/net6.0/BubbleSort_For.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/SelectionSort_For/obj/Debug/net6.0/refint/BubbleSort_For.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/SelectionSort_For/obj/Debug/net6.0/BubbleSort_For.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/SelectionSort_For/obj/Debug/net6.0/BubbleSort_For.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/SelectionSort_For/obj/Debug/net6.0/ref/BubbleSort_For.dll

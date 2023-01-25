@@ -1,0 +1,15 @@
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/ReplText_For/obj/Debug/net6.0/ReplText_For.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/ReplText_For/obj/Debug/net6.0/ReplText_For.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/ReplText_For/obj/Debug/net6.0/ReplText_For.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/ReplText_For/obj/Debug/net6.0/ReplText_For.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/ReplText_For/obj/Debug/net6.0/ReplText_For.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/ReplText_For/bin/Debug/net6.0/ReplText_For
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/ReplText_For/bin/Debug/net6.0/ReplText_For.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/ReplText_For/bin/Debug/net6.0/ReplText_For.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/ReplText_For/bin/Debug/net6.0/ReplText_For.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/ReplText_For/bin/Debug/net6.0/ReplText_For.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/ReplText_For/obj/Debug/net6.0/ReplText_For.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/ReplText_For/obj/Debug/net6.0/refint/ReplText_For.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/ReplText_For/obj/Debug/net6.0/ReplText_For.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/ReplText_For/obj/Debug/net6.0/ReplText_For.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/ReplText_For/obj/Debug/net6.0/ref/ReplText_For.dll

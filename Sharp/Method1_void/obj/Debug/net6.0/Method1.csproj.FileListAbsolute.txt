@@ -1,0 +1,15 @@
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method1/obj/Debug/net6.0/Method1.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method1/obj/Debug/net6.0/Method1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method1/obj/Debug/net6.0/Method1.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method1/obj/Debug/net6.0/Method1.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method1/obj/Debug/net6.0/Method1.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method1/bin/Debug/net6.0/Method1
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method1/bin/Debug/net6.0/Method1.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method1/bin/Debug/net6.0/Method1.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method1/bin/Debug/net6.0/Method1.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method1/bin/Debug/net6.0/Method1.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method1/obj/Debug/net6.0/Method1.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method1/obj/Debug/net6.0/refint/Method1.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method1/obj/Debug/net6.0/Method1.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method1/obj/Debug/net6.0/Method1.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method1/obj/Debug/net6.0/ref/Method1.dll

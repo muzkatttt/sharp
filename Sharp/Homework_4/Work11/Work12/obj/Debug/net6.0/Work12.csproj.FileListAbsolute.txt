@@ -1,0 +1,15 @@
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework_4/Work11/Work12/bin/Debug/net6.0/Work12
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework_4/Work11/Work12/bin/Debug/net6.0/Work12.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework_4/Work11/Work12/bin/Debug/net6.0/Work12.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework_4/Work11/Work12/bin/Debug/net6.0/Work12.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework_4/Work11/Work12/bin/Debug/net6.0/Work12.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework_4/Work11/Work12/obj/Debug/net6.0/Work12.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework_4/Work11/Work12/obj/Debug/net6.0/Work12.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework_4/Work11/Work12/obj/Debug/net6.0/Work12.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework_4/Work11/Work12/obj/Debug/net6.0/Work12.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework_4/Work11/Work12/obj/Debug/net6.0/Work12.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework_4/Work11/Work12/obj/Debug/net6.0/Work12.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework_4/Work11/Work12/obj/Debug/net6.0/refint/Work12.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework_4/Work11/Work12/obj/Debug/net6.0/Work12.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework_4/Work11/Work12/obj/Debug/net6.0/Work12.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework_4/Work11/Work12/obj/Debug/net6.0/ref/Work12.dll

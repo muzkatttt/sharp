@@ -1,0 +1,15 @@
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method2_void/bin/Debug/net6.0/Method2_void
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method2_void/bin/Debug/net6.0/Method2_void.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method2_void/bin/Debug/net6.0/Method2_void.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method2_void/bin/Debug/net6.0/Method2_void.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method2_void/bin/Debug/net6.0/Method2_void.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method2_void/obj/Debug/net6.0/Method2_void.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method2_void/obj/Debug/net6.0/Method2_void.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method2_void/obj/Debug/net6.0/Method2_void.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method2_void/obj/Debug/net6.0/Method2_void.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method2_void/obj/Debug/net6.0/Method2_void.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method2_void/obj/Debug/net6.0/Method2_void.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method2_void/obj/Debug/net6.0/refint/Method2_void.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method2_void/obj/Debug/net6.0/Method2_void.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method2_void/obj/Debug/net6.0/Method2_void.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method2_void/obj/Debug/net6.0/ref/Method2_void.dll

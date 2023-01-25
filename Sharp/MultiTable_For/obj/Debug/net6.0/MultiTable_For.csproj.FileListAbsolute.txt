@@ -1,0 +1,15 @@
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/MultiTable_For/bin/Debug/net6.0/MultiTable_For
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/MultiTable_For/bin/Debug/net6.0/MultiTable_For.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/MultiTable_For/bin/Debug/net6.0/MultiTable_For.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/MultiTable_For/bin/Debug/net6.0/MultiTable_For.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/MultiTable_For/bin/Debug/net6.0/MultiTable_For.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/MultiTable_For/obj/Debug/net6.0/MultiTable_For.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/MultiTable_For/obj/Debug/net6.0/MultiTable_For.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/MultiTable_For/obj/Debug/net6.0/MultiTable_For.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/MultiTable_For/obj/Debug/net6.0/MultiTable_For.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/MultiTable_For/obj/Debug/net6.0/MultiTable_For.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/MultiTable_For/obj/Debug/net6.0/MultiTable_For.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/MultiTable_For/obj/Debug/net6.0/refint/MultiTable_For.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/MultiTable_For/obj/Debug/net6.0/MultiTable_For.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/MultiTable_For/obj/Debug/net6.0/MultiTable_For.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/MultiTable_For/obj/Debug/net6.0/ref/MultiTable_For.dll

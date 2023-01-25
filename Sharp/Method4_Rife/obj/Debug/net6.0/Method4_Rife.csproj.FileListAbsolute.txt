@@ -1,0 +1,15 @@
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method4_Rife/obj/Debug/net6.0/Method4_Rife.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method4_Rife/obj/Debug/net6.0/Method4_Rife.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method4_Rife/obj/Debug/net6.0/Method4_Rife.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method4_Rife/obj/Debug/net6.0/Method4_Rife.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method4_Rife/obj/Debug/net6.0/Method4_Rife.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method4_Rife/bin/Debug/net6.0/Method4_Rife
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method4_Rife/bin/Debug/net6.0/Method4_Rife.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method4_Rife/bin/Debug/net6.0/Method4_Rife.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method4_Rife/bin/Debug/net6.0/Method4_Rife.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method4_Rife/bin/Debug/net6.0/Method4_Rife.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method4_Rife/obj/Debug/net6.0/Method4_Rife.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method4_Rife/obj/Debug/net6.0/refint/Method4_Rife.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method4_Rife/obj/Debug/net6.0/Method4_Rife.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method4_Rife/obj/Debug/net6.0/Method4_Rife.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Method4_Rife/obj/Debug/net6.0/ref/Method4_Rife.dll
