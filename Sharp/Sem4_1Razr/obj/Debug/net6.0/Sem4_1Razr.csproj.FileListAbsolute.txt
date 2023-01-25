@@ -1,0 +1,15 @@
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem4_1Razr/bin/Debug/net6.0/Sem4_1Razr
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem4_1Razr/bin/Debug/net6.0/Sem4_1Razr.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem4_1Razr/bin/Debug/net6.0/Sem4_1Razr.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem4_1Razr/bin/Debug/net6.0/Sem4_1Razr.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem4_1Razr/bin/Debug/net6.0/Sem4_1Razr.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem4_1Razr/obj/Debug/net6.0/Sem4_1Razr.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem4_1Razr/obj/Debug/net6.0/Sem4_1Razr.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem4_1Razr/obj/Debug/net6.0/Sem4_1Razr.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem4_1Razr/obj/Debug/net6.0/Sem4_1Razr.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem4_1Razr/obj/Debug/net6.0/Sem4_1Razr.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem4_1Razr/obj/Debug/net6.0/Sem4_1Razr.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem4_1Razr/obj/Debug/net6.0/refint/Sem4_1Razr.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem4_1Razr/obj/Debug/net6.0/Sem4_1Razr.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem4_1Razr/obj/Debug/net6.0/Sem4_1Razr.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem4_1Razr/obj/Debug/net6.0/ref/Sem4_1Razr.dll
