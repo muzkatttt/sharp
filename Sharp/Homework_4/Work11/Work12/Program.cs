@@ -4,21 +4,22 @@
 82 -> 10
 9012 -> 12 */
 
-int Sum(int n)
-    {   
-        for(int i = 0; i < n; i++)
+internal class Program
+{
+    private static void Main(string[] args)
+    {
+        Console.WriteLine("Введите число: ");
+        int n = int.Parse(Console.ReadLine()!);
+        int sum = 0;
+        int temp = 0;
+        {
+            while (n > 0)
             {
-                int temp = result;
-                result = n % 10;
-                temp = result;
+                temp = n % 10;
+                sum = sum + temp;
+                n = n / 10;
             }
-            i++;
-        return result;
+            Console.WriteLine($"Сумма цифр числа равна {sum}");
+        }
     }
-
-Console.WriteLine("Введите число: ");
-int a = int.Parse(Console.ReadLine()!);
-
-void PrintSum => Console.Write(Sum);
-Console.WriteLine(Sum(result));
-
+}
