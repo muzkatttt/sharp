@@ -33,16 +33,11 @@ int [] array = new int[8];
 FillArray(array);
 PrintArray(array);
 
-// void PrintArray(int [8] nums)
-// {
-//     int count = col.Length;
-//     int position = 0;
-//     while (position < count)
-//     {
-//         Console.WriteLine(col[position]);
-//         position++;
-//     }
-// }
+int ReadConsol(string msg) // считывание с консоли информации пользователя
+{
+    Console.Write(msg);
+    return int.Parse(Console.ReadLine()!);
+}
 
 
 // /* имеется одномерный массив array из n элементов (с использованием генератора псевдослучайных чисел) 

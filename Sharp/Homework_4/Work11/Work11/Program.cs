@@ -14,12 +14,12 @@ void Extent(int a, int b) // возведение в степень
     }
     Console.Write(result);
 }
- 
- int ReadConsol(string msg) // считывание с консоли информации от пользователя
- {
+
+int ReadConsol(string msg) // считывание с консоли информации пользователя
+{
     Console.Write(msg);
     return int.Parse(Console.ReadLine()!);
- }
+}
 
 Console.Clear();
 int a = ReadConsol("Введите число А: ");
