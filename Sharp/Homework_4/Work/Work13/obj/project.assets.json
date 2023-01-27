@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework_4/Work11/Work13/Work13.csproj",
+      "projectUniqueName": "/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework_4/Work/Work13/Work13.csproj",
       "projectName": "Work13",
-      "projectPath": "/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework_4/Work11/Work13/Work13.csproj",
+      "projectPath": "/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework_4/Work/Work13/Work13.csproj",
       "packagesPath": "/Users/ekaterinarodionova/.nuget/packages/",
-      "outputPath": "/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework_4/Work11/Work13/obj/",
+      "outputPath": "/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework_4/Work/Work13/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ekaterinarodionova/.nuget/NuGet/NuGet.Config"

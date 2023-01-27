@@ -11,13 +11,13 @@ void Dellet(string[] args)
     int sum = 0;
     int temp = 0;
     {
-    while (n > 0)
+        while (n > 0)
         {
-        temp = n % 10;
-        sum = sum + temp;
-        n = n / 10;
+            temp = n % 10;
+            sum = sum + temp;
+            n = n / 10;
         }
-    Console.WriteLine($"Сумма цифр числа равна {sum}");
+        Console.WriteLine($"Сумма цифр числа равна {sum}");
     }
 }
 
