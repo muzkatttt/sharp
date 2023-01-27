@@ -10,5 +10,5 @@ string Method4(int count, string text)
         return result;
 }
 
-string res = Method4(10, "Kat ");
+string res = Method4(100, "Игорь ");
 Console.WriteLine(res);
