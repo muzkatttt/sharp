@@ -1,0 +1,15 @@
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example6_Base/bin/Debug/net6.0/Example6_Base
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example6_Base/bin/Debug/net6.0/Example6_Base.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example6_Base/bin/Debug/net6.0/Example6_Base.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example6_Base/bin/Debug/net6.0/Example6_Base.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example6_Base/bin/Debug/net6.0/Example6_Base.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example6_Base/obj/Debug/net6.0/Example6_Base.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example6_Base/obj/Debug/net6.0/Example6_Base.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example6_Base/obj/Debug/net6.0/Example6_Base.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example6_Base/obj/Debug/net6.0/Example6_Base.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example6_Base/obj/Debug/net6.0/Example6_Base.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example6_Base/obj/Debug/net6.0/Example6_Base.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example6_Base/obj/Debug/net6.0/refint/Example6_Base.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example6_Base/obj/Debug/net6.0/Example6_Base.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example6_Base/obj/Debug/net6.0/Example6_Base.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example6_Base/obj/Debug/net6.0/ref/Example6_Base.dll
