@@ -1,0 +1,15 @@
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example7_Magic/bin/Debug/net6.0/Example7_Magic
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example7_Magic/bin/Debug/net6.0/Example7_Magic.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example7_Magic/bin/Debug/net6.0/Example7_Magic.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example7_Magic/bin/Debug/net6.0/Example7_Magic.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example7_Magic/bin/Debug/net6.0/Example7_Magic.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example7_Magic/obj/Debug/net6.0/Example7_Magic.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example7_Magic/obj/Debug/net6.0/Example7_Magic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example7_Magic/obj/Debug/net6.0/Example7_Magic.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example7_Magic/obj/Debug/net6.0/Example7_Magic.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example7_Magic/obj/Debug/net6.0/Example7_Magic.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example7_Magic/obj/Debug/net6.0/Example7_Magic.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example7_Magic/obj/Debug/net6.0/refint/Example7_Magic.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example7_Magic/obj/Debug/net6.0/Example7_Magic.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example7_Magic/obj/Debug/net6.0/Example7_Magic.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example7_Magic/obj/Debug/net6.0/ref/Example7_Magic.dll
