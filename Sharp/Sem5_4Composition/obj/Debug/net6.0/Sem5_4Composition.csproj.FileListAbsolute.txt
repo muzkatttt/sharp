@@ -1,0 +1,15 @@
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem5_4Composition/bin/Debug/net6.0/Sem5_4Composition
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem5_4Composition/bin/Debug/net6.0/Sem5_4Composition.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem5_4Composition/bin/Debug/net6.0/Sem5_4Composition.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem5_4Composition/bin/Debug/net6.0/Sem5_4Composition.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem5_4Composition/bin/Debug/net6.0/Sem5_4Composition.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem5_4Composition/obj/Debug/net6.0/Sem5_4Composition.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem5_4Composition/obj/Debug/net6.0/Sem5_4Composition.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem5_4Composition/obj/Debug/net6.0/Sem5_4Composition.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem5_4Composition/obj/Debug/net6.0/Sem5_4Composition.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem5_4Composition/obj/Debug/net6.0/Sem5_4Composition.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem5_4Composition/obj/Debug/net6.0/Sem5_4Composition.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem5_4Composition/obj/Debug/net6.0/refint/Sem5_4Composition.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem5_4Composition/obj/Debug/net6.0/Sem5_4Composition.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem5_4Composition/obj/Debug/net6.0/Sem5_4Composition.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem5_4Composition/obj/Debug/net6.0/ref/Sem5_4Composition.dll

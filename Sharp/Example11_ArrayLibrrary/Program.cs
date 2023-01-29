@@ -3,9 +3,9 @@
 void FillArray(int[] collection) // void - метод, при котором значение функции могут не возвращать, 
                                  // метод return, наоборот, возвращает значение функции
 {
-    int Length = collection.Length;
+    int length = collection.Length;
     int index = 0;
-    while (index < Length)
+    while (index < length)
     {
         collection [index] = new Random().Next(1, 10);
         index++;

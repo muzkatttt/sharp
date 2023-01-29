@@ -1,0 +1,15 @@
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem4_2Sum/obj/Debug/net6.0/Sem4_2Sum.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem4_2Sum/obj/Debug/net6.0/Sem4_2Sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem4_2Sum/obj/Debug/net6.0/Sem4_2Sum.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem4_2Sum/obj/Debug/net6.0/Sem4_2Sum.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem4_2Sum/obj/Debug/net6.0/Sem4_2Sum.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem4_2Sum/bin/Debug/net6.0/Sem4_2Sum
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem4_2Sum/bin/Debug/net6.0/Sem4_2Sum.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem4_2Sum/bin/Debug/net6.0/Sem4_2Sum.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem4_2Sum/bin/Debug/net6.0/Sem4_2Sum.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem4_2Sum/bin/Debug/net6.0/Sem4_2Sum.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem4_2Sum/obj/Debug/net6.0/Sem4_2Sum.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem4_2Sum/obj/Debug/net6.0/refint/Sem4_2Sum.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem4_2Sum/obj/Debug/net6.0/Sem4_2Sum.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem4_2Sum/obj/Debug/net6.0/Sem4_2Sum.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem4_2Sum/obj/Debug/net6.0/ref/Sem4_2Sum.dll
