@@ -4,11 +4,11 @@
 [-4, -6, 89 , 6] -> 0
 */
 
-int[] New(int number, int minValue, int maxValue)
+int[] New(int numbers, int minValue, int maxValue)
 {
-    int[] output = new int[number];
+    int[] output = new int[numbers];
 
-    for (int i = 0; i < number; i++)
+    for (int i = 0; i < numbers; i++)
     {
         output[i] = new Random().Next(minValue, maxValue + 1);
     }
@@ -16,28 +16,13 @@ int[] New(int number, int minValue, int maxValue)
 }
 
 Console.Clear();
-int[] odd = New(13, -99, 100); // задаются аргументы
-Console.WriteLine(String.Join(" ", odd));
+int[] array = New(20, -99, 100); // задаются аргументы
+Console.WriteLine(String.Join(" ", array));
 
-int OddCount(int[] array, int minIndex, int maxIndex)
+int sumOdd = 0;
+for (int index= 1; index < array.Length; index += 2)
 {
-    int sum = 0;
-    {
-        int i = 0;
-        for (int i = 1; i < array; i++);
-        {
-            if (array[i] % 2 == 1)
-            {
-                sum++;
-            }
-            else 
-            {
-                sum =+ 0;
-            }
-        }
-        return sum;
-    }
+    sumOdd += array[index];
 }
 
-int[] sum = OddCount(array[i], -99, 100);
-Console.WriteLine(sum);
+Console.WriteLine($"Cумма чисел с нечетными индексами = {sumOdd}");

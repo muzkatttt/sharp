@@ -3,3 +3,13 @@
 /Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework5/work36/obj/Debug/net6.0/work36.AssemblyInfoInputs.cache
 /Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework5/work36/obj/Debug/net6.0/work36.AssemblyInfo.cs
 /Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework5/work36/obj/Debug/net6.0/work36.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework5/work36/bin/Debug/net6.0/work36
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework5/work36/bin/Debug/net6.0/work36.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework5/work36/bin/Debug/net6.0/work36.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework5/work36/bin/Debug/net6.0/work36.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework5/work36/bin/Debug/net6.0/work36.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework5/work36/obj/Debug/net6.0/work36.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework5/work36/obj/Debug/net6.0/refint/work36.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework5/work36/obj/Debug/net6.0/work36.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework5/work36/obj/Debug/net6.0/work36.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework5/work36/obj/Debug/net6.0/ref/work36.dll
