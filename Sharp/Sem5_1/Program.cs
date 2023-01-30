@@ -36,4 +36,3 @@ foreach (int el in array)
 }
 
 Console.WriteLine($"Сумма положительных чисел = {positiveSum}, отрицательных = {negativeSum}");
-
