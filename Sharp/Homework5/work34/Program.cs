@@ -10,26 +10,30 @@ int[] ThreeDigitNumber(int nums, int min, int max) // заполняю масс�
 
     for (int i = 0; i < nums; i++)
     {
-        result[i] = new Random().Next(min, max + 1); // min входит, max + 1 тоже входит 
+        result[i] = new Random().Next(min, max + 1);
     }
     return result;
 }
 
-Console.Clear();
-int[] even = ThreeDigitNumber(9, 100, 1000); // 9 - количество чисел в массиве, 100 - минимальное трехзн.число
-//Console.Write("Сгенерированный массив: ");
-Console.WriteLine(String.Join(" ", even)); // без этой команды программа не показывает сгенерированный массив
-
-int evenNums = 0;
-foreach (int elem in even)
+void main()
 {
-    if (elem % 2 == 0)
+    Console.Clear();
+    int[] even = ThreeDigitNumber(9, 100, 1000); // 9 - количество чисел в массиве, 100 - минимальное трехзн.число
+    Console.WriteLine(String.Join(" ", even));
+
+    int evenNums = 0;
+    foreach (int elem in even)
     {
-        evenNums += 1;
+        if (elem % 2 == 0)
+        {
+            evenNums += 1;
+        }
+        else
+        {
+            evenNums += 0;
+        }
     }
-    else
-    {
-        evenNums += 0;
-    }
+    Console.WriteLine($"Количество четных чисел в массиве = {evenNums}");
 }
-Console.WriteLine($"Количество четных чисел в массиве = {evenNums}");
+
+main();

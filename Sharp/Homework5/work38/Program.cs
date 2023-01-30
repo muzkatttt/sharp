@@ -3,12 +3,22 @@
 элементом массива
 */
 
-double[] array = new double[double numbers, double min, double max];
-
-Random random = new Random();
-for (int i = 0; i < 10; i++)
+double[] array = new double[] { };
 {
-        array[i] = random.NextDouble() * 100; // NextDouble() дает случайное вещественное число в диапазоне от 0 до 1
-        Console.Write("{0,11:F2}", array[i]);
+    for (int i = 0; i < array.Length; i++)
+    {
+        array[i] = new NextDouble(0, 1); // + new Random().Next(0.01, 10.0);
+    }
 }
 
+Console.Clear();
+//double[] array = New(20, 0, 1); // задаются аргументы
+Console.WriteLine(String.Join(" ", array));
+
+Random rand = new Random();
+for (int i = 0; i < array.Length; i++)
+{
+    array[i] = 5 - rand.Next(11) + rand.NextDouble();
+}
+
+Console.ReadLine();
