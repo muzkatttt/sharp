@@ -3,24 +3,12 @@
 элементом массива
 */
 
-int[] MyArray(int size, int min, int max)
+Random rand = new Random();
+double[] numbers = new double[10];
+for (int i = 0; i < numbers.Length; i++)
 {
-    for (int i = 0; i < array.Length; i++)
-    {
-        array[i] = new Random().Next(min, max + 1); // + new Random().Next(0.01, 10.0);
-    }
+    numbers[i] = rand.NextDouble() + new Random().Next(1, 100);
 }
-
-int[] array = 
 Console.Clear();
-//double[] array = New(20, 0, 1); // задаются аргументы
-Console.WriteLine(String.Join(" ", array));
-int num = double.Parse(Console.ReadLine()!);
+Console.WriteLine(String.Join(" ", numbers));
 
-// Random rand = new Random();
-// for (int i = 0; i < array.Length; i++)
-// {
-//     array[i] = 5 - rand.Next(11) + rand.NextDouble();
-// }
-
-// Console.ReadLine();
