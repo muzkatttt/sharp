@@ -1,0 +1,15 @@
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem6/Sem39/bin/Debug/net6.0/Sem39
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem6/Sem39/bin/Debug/net6.0/Sem39.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem6/Sem39/bin/Debug/net6.0/Sem39.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem6/Sem39/bin/Debug/net6.0/Sem39.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem6/Sem39/bin/Debug/net6.0/Sem39.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem6/Sem39/obj/Debug/net6.0/Sem39.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem6/Sem39/obj/Debug/net6.0/Sem39.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem6/Sem39/obj/Debug/net6.0/Sem39.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem6/Sem39/obj/Debug/net6.0/Sem39.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem6/Sem39/obj/Debug/net6.0/Sem39.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem6/Sem39/obj/Debug/net6.0/Sem39.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem6/Sem39/obj/Debug/net6.0/refint/Sem39.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem6/Sem39/obj/Debug/net6.0/Sem39.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem6/Sem39/obj/Debug/net6.0/Sem39.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem6/Sem39/obj/Debug/net6.0/ref/Sem39.dll

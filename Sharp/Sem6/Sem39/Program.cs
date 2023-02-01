@@ -40,7 +40,7 @@ int[] ReversArray2(int[] inArray)
 int[] array = GetArray(10, 0, 10);
 Console.WriteLine(String.Join(" ", array));
 
-// ReversArray(array);
+ReversArray(array);
 // Console.WriteLine(String.Join(" ", array));
 int[] reversed = ReversArray2(array);
 Console.WriteLine(String.Join(" ", reversed));

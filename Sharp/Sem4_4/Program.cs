@@ -16,18 +16,18 @@ void PrintArray(int[] array)
 }
 
 // можно так записать код
-// void main()
-// {
-//     int[] intArray = new int[8];
-//     for (int i = 0; i < intArray.Length; i++)
-//     {
-//         int randInt = new Random().Next(0, 2); // ставим 2 - т.к. значение не входит в интервал!
-//         intArray[i] = randInt;
-//     }
-//PrintArray(intArray);
-// }
+void main()
+{
+    int[] intArray = new int[8];
+    for (int i = 0; i < intArray.Length; i++)
+    {
+        int randInt = new Random().Next(0, 2); // ставим 2 - т.к. значение не входит в интервал!
+        intArray[i] = randInt;
+    }
+PrintArray(intArray);
+}
 
-// main();
+main();
 
 int[] getArray()
 {
