@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem4_4arr0&1/Sem4_4arr0&1.csproj",
-      "projectName": "Sem4_4arr0&1",
-      "projectPath": "/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem4_4arr0&1/Sem4_4arr0&1.csproj",
+      "projectUniqueName": "/Users/ekaterinarodionova/Desktop/MyLib/Sem4_4/Sem4_4.csproj",
+      "projectName": "Sem4_4",
+      "projectPath": "/Users/ekaterinarodionova/Desktop/MyLib/Sem4_4/Sem4_4.csproj",
       "packagesPath": "/Users/ekaterinarodionova/.nuget/packages/",
-      "outputPath": "/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem4_4arr0&1/obj/",
+      "outputPath": "/Users/ekaterinarodionova/Desktop/MyLib/Sem4_4/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ekaterinarodionova/.nuget/NuGet/NuGet.Config"

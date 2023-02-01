@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework5/workDop/workDop.csproj": {}
+    "/Users/ekaterinarodionova/Desktop/MyLib/Sem4_4/Sem4_4.csproj": {}
   },
   "projects": {
-    "/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework5/workDop/workDop.csproj": {
+    "/Users/ekaterinarodionova/Desktop/MyLib/Sem4_4/Sem4_4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework5/workDop/workDop.csproj",
-        "projectName": "workDop",
-        "projectPath": "/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework5/workDop/workDop.csproj",
+        "projectUniqueName": "/Users/ekaterinarodionova/Desktop/MyLib/Sem4_4/Sem4_4.csproj",
+        "projectName": "Sem4_4",
+        "projectPath": "/Users/ekaterinarodionova/Desktop/MyLib/Sem4_4/Sem4_4.csproj",
         "packagesPath": "/Users/ekaterinarodionova/.nuget/packages/",
-        "outputPath": "/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework5/workDop/obj/",
+        "outputPath": "/Users/ekaterinarodionova/Desktop/MyLib/Sem4_4/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ekaterinarodionova/.nuget/NuGet/NuGet.Config"
