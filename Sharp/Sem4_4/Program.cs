@@ -6,7 +6,7 @@
 
 void PrintArray(int[] array)
 {
-    string ourArray = "";
+    string ourArray = " ";
     for (int i = 0; i < array.Length; i++)
     {
         ourArray += array[i];
@@ -24,7 +24,7 @@ void PrintArray(int[] array)
 //         int randInt = new Random().Next(0, 2); // ставим 2 - т.к. значение не входит в интервал!
 //         intArray[i] = randInt;
 //     }
-//     PrintArray(intArray);
+//PrintArray(intArray);
 // }
 
 // main();
