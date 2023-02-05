@@ -24,14 +24,8 @@ void main()
     int evenNums = 0;
     foreach (int elem in even)
     {
-        if (elem % 2 == 0)
-        {
-            evenNums += 1;
-        }
-        else
-        {
-            evenNums += 0;
-        }
+        if (elem % 2 == 0) evenNums += 1;
+        else evenNums += 0;
     }
     Console.WriteLine($"Количество четных чисел в массиве = {evenNums}");
 }

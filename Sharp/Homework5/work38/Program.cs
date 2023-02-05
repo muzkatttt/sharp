@@ -34,11 +34,3 @@ double[] myArray = RandomArray(0, 10);
 Console.WriteLine(String.Join(" ", myArray));
 Difference(myArray);
 
-
-
-
-
-
-
-
-
