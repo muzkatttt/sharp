@@ -12,7 +12,10 @@ void PrintArray(int[] array)
     int count = 0;
     for (int i = 0; i < arr.Length; i++)
     {
-        if (arr[i] > 0) count++;
+        if (arr[i] > 0)
+        {
+            count++;
+        }
     }
     Console.WriteLine($"Кол-во элементов больше 0 = {count}");
 }

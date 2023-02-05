@@ -6,18 +6,18 @@
 
 void main()
 {
-    System.Console.Write("введите  число: ");
+    Console.Write("введите  число: ");
     int inputNumber = int.Parse(Console.ReadLine()!);
     string ReversInt = Return01(inputNumber);
-    System.Console.WriteLine(ReversInt);
+    Console.WriteLine(ReversInt);
 }
 
 string Return01(int number)
 {
     string number01 = string.Empty;
-    while (number > 0)
+    while (number > 0) // выполняем код до тех пор, пока не закончится остаток от нашего числа
     {
-        number01 = (number % 2).ToString() + number01;
+        number01 = (number % 2).ToString() + number01; // каждый остаток приплюсовываем с левой стороны к пустой строке 
         number /= 2;
     }
     return number01;
