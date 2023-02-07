@@ -16,7 +16,7 @@ int[,] GetArray(int m, int n, int minValue, int maxValue)
     {
         for (int j = 0; j < n; j++)
         {
-            result[i, j] = new Random().Next(minValue, maxValue+1);
+            result[i, j] = new Random().Next(minValue, maxValue + 1);
         }
     }
     return result;
@@ -34,22 +34,19 @@ void PrintArray(int[,] inArray)
     }
 }
 
-double[,] ArithmeticMeanCol(int m, int n, double min, double max)
+double SumDouble(double[,] arr)
 {
-    double[,] matrix = new double[m,n];
-    double sum = 0;
-    double arithmetic = 0;
-    for (int i = 0; i < m; i++)
+    for (int i = 0; i < arr.GetLength(0); i++)
     {
-        for (int k = 0; k < n; k++)
+        for (int k = 0; k < arr.GetLength(1); k++)
         {
-            sum = matrix[i+1,k] + sum;
-            arithmetic = sum / n;
-            Console.WriteLine($"{arithmetic}");
+            double[,] matrix = new double[i, k];
+
+            arr[i,k] = arr[i,k] + arr[i+1,k];
+            Console.Write($"{arr[i,k] / arr.GetLength(1):F2}\t ");
         }
     }
-    return matrix;
-    
+    return arr.GetLength(1);
 }
 
 Console.Clear();
@@ -57,7 +54,7 @@ Console.Write("Введите кол-во строк: ");
 int row = int.Parse(Console.ReadLine()!);
 Console.Write("Введите кол-во столбцов: ");
 int col = int.Parse(Console.ReadLine()!);
-
-int[,] array = GetArray(row, col, 0, 10);
+int [,] array = GetArray(row, col, 0, 10);
 PrintArray(array);
-ArithmeticMeanCol(row, col, 0, 10);
+double[,] matrix = new double[row,col];
+SumDouble(matrix);

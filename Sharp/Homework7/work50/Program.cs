@@ -36,22 +36,28 @@ void PrintArray(int[,] inArray)
 
 void FindElement(int[,] myArray, int row, int col)
 {
-    int find = Find(); // вызов метода из метода
-    for (int i = 0; i < myArray.GetLength(0); i++)
+    int findElement = Find(); // вызов метода из метода
+    int count = 0;
+    int rows = myArray.GetLength(0);
+    int columns = myArray.GetLength(1);
+    for (int i = 0; i < rows; i++)
     {
-        for (int k = 0; k < myArray.GetLength(1); k++)
+        for (int k = 0; k < columns; k++)
         {
-            if (find < myArray[i, k] || find > myArray[i, k])
+            if (myArray[i, k] == findElement)
             {
-                Console.WriteLine($"Заданный элемент {find} отсутствует в массиве");
-            }
-            else if (myArray[i, k] == find)
-            {
-                Console.WriteLine($"Значение элемента массива {myArray[i, k]}, индекс строки {i}, индекс столбца {k}");
+                Console.WriteLine($"Значение {myArray[i, k]}, индекс {i},{k}");
+                count++;
             }
         }
     }
+    if (count == 0)
+    {
+        Console.WriteLine($"Элемент не найден");
+    }
 }
+
+
 void Main()
 {
     Console.Clear();
@@ -67,7 +73,7 @@ void Main()
 
 int Find()
 {
-    Console.Write("Введите значение: ");
+    Console.Write("Какое число ищем в массиве? Введите: ");
     int find = int.Parse(Console.ReadLine()!);
     return find;
 }

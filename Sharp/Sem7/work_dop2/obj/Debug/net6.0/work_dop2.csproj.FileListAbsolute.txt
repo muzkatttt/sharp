@@ -1,0 +1,15 @@
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem7/work_dop2/obj/Debug/net6.0/work_dop2.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem7/work_dop2/obj/Debug/net6.0/work_dop2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem7/work_dop2/obj/Debug/net6.0/work_dop2.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem7/work_dop2/obj/Debug/net6.0/work_dop2.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem7/work_dop2/obj/Debug/net6.0/work_dop2.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem7/work_dop2/bin/Debug/net6.0/work_dop2
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem7/work_dop2/bin/Debug/net6.0/work_dop2.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem7/work_dop2/bin/Debug/net6.0/work_dop2.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem7/work_dop2/bin/Debug/net6.0/work_dop2.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem7/work_dop2/bin/Debug/net6.0/work_dop2.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem7/work_dop2/obj/Debug/net6.0/work_dop2.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem7/work_dop2/obj/Debug/net6.0/refint/work_dop2.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem7/work_dop2/obj/Debug/net6.0/work_dop2.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem7/work_dop2/obj/Debug/net6.0/work_dop2.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem7/work_dop2/obj/Debug/net6.0/ref/work_dop2.dll
