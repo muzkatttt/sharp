@@ -70,7 +70,6 @@ void Main()
     FindElement(array, row, col);
 }
 
-
 int Find()
 {
     Console.Write("Какое число ищем в массиве? Введите: ");

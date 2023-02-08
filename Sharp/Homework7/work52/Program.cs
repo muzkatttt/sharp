@@ -9,44 +9,42 @@
 4,6 5,6 3,6 3 */
 
 
-int[,] GetArray(int m, int n, int minValue, int maxValue)
+double[,] GetArray(int m, int n, int minValue, int maxValue)
 {
-    int[,] result = new int[m, n];
+    double[,] result = new double[m, n];
     for (int i = 0; i < m; i++)
     {
-        for (int j = 0; j < n; j++)
+        for (int k = 0; k < n; k++)
         {
-            result[i, j] = new Random().Next(minValue, maxValue + 1);
+            result[i, k] = new Random().Next(minValue, maxValue + 1);
         }
     }
     return result;
 }
 
-void PrintArray(int[,] inArray)
+void PrintArray(double[,] inArray)
 {
     for (int i = 0; i < inArray.GetLength(0); i++)
     {
-        for (int j = 0; j < inArray.GetLength(1); j++)
+        for (int k = 0; k < inArray.GetLength(1); k++)
         {
-            Console.Write($"{inArray[i, j]}\t ");
+            Console.Write($"{inArray[i, k]}\t ");
         }
         Console.WriteLine();
     }
 }
 
-double SumDouble(double[,] arr)
+void SumDouble(double[,] arr)
 {
-    for (int i = 0; i < arr.GetLength(0); i++)
+    for (int i = 0; i < arr.GetLength(1); i++)
     {
-        for (int k = 0; k < arr.GetLength(1); k++)
+        double sum = 0;
+        for (int k = 0; k < arr.GetLength(0); k++)
         {
-            double[,] matrix = new double[i, k];
-
-            arr[i,k] = arr[i,k] + arr[i+1,k];
-            Console.Write($"{arr[i,k] / arr.GetLength(1):F2}\t ");
+            sum = arr[k, i] + sum;
         }
+        Console.Write($"{sum / arr.GetLength(0):F2}\t");
     }
-    return arr.GetLength(1);
 }
 
 Console.Clear();
@@ -54,7 +52,6 @@ Console.Write("Введите кол-во строк: ");
 int row = int.Parse(Console.ReadLine()!);
 Console.Write("Введите кол-во столбцов: ");
 int col = int.Parse(Console.ReadLine()!);
-int [,] array = GetArray(row, col, 0, 10);
+double[,] array = GetArray(row, col, 0, 10);
 PrintArray(array);
-double[,] matrix = new double[row,col];
-SumDouble(matrix);
+SumDouble(array);
