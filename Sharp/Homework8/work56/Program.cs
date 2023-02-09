@@ -36,9 +36,33 @@ void PrintArray(int[,] inArray)
     }
 }
 
+
+void MinIndexes(int[,] array)
+{
+    int row = 0;
+    int column = 0;
+    for (int i = 0; i < array.GetLength(0); i++)
+    {
+        for (int j = 0; j < array.GetLength(1); j++)
+        {
+            if (array[row, column] > array[i, j])
+            {
+                row = i;
+                column = j;
+            }
+        }
+        Console.WriteLine($"Строка масива с наименшей суммой {array[row, column]}");
+    }
+
+    // return new int[] { row, column };
+
+}
+
+
 Console.Clear();
 Console.Write("Введите кол-во строк: ");
 int row = int.Parse(Console.ReadLine()!);
 int col = row + 2;
 int[,] array = GetArray(row, col, 0, 10);
 PrintArray(array);
+MinIndexes(array);

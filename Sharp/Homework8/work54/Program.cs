@@ -35,5 +35,35 @@ void PrintArray(int[,] inArray)
     }
 }
 
-int[,] ourArray = GetArray(row, col, 1, 9);
-PrintArray(ourArray);
+int SortArray(int[] array)
+{
+    int temp;
+    for (int i = 0; i < array.Length - 1; i++)
+    {
+        for (int j = i + 1; j < array.Length; j++)
+        {
+            if (array[i] > array[j])
+            {
+                temp = array[i];
+                array[i] = array[j];
+                array[j] = temp;
+            }
+            Console.Write(temp);
+        }
+    }
+}
+
+
+Console.Clear();
+Console.Write("Введите кол-во строк: ");
+int row = int.Parse(Console.ReadLine()!);
+Console.Write("Введите кол-во столбцов: ");
+int col = int.Parse(Console.ReadLine()!);
+int[,] array = GetArray(row, col, 1, 9);
+PrintArray(array);
+
+int[] myArray = SortArray(array);
+Console.WriteLine(string.Join(" ", array));
+SortArray(myArray);
+Console.WriteLine(string.Join(" ", array));
+PrintArray(array);
