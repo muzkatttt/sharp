@@ -1,6 +1,6 @@
-﻿/* Задача 54. Задайте двумерный массив. Сортирует по столбцам
+﻿/* Задача 54. Задайте двумерный массив. Сортирует по столбцам!
 Напишите программу, которая упорядочит 
-по убыванию элементы каждой строки двумерного массива.
+по убыванию элементы каждого столбца двумерного массива.
 Например, задан массив
  1 4 7 2
  5 9 2 3
@@ -39,33 +39,32 @@ void SortArray(int[,] array)
 {
     for (int i = 0; i < array.GetLength(0); i++)
     {
-        for (int j = 0; j < array.GetLength(1) - 1; j++)
+        for (int j = 0; j < array.GetLength(1); j++)
         {
-            for (int q = 0; q < array.GetLength(1) - 1; q++)
+            for (int col = i; col < array.GetLength(1) - j - 1; col++)
             {
-                if (array[i, q] < array[i, q + 1])
+                if (array[i, col] > array[i, col + 1])
                 {
-                    int temp = array[i, q + 1];
-                    array[i, q + 1] = array[i, q];
-                    array[i, q] = temp;
+                    int temp = array[i, col];
+                    array[i, col] = array[i, col + 1];
+                    array[i, col + 1] = temp;
                 }
             }
         }
     }
 }
 
-void Main()
-{
-    Console.Clear();
-    Console.Write("Введите кол-во строк: ");
-    int row = int.Parse(Console.ReadLine()!);
-    Console.Write("Введите кол-во столбцов: ");
-    int col = int.Parse(Console.ReadLine()!);
-    int[,] array = GetArray(row, row, 4, 13);
-    PrintArray(array);
-    Console.WriteLine();
-    SortArray(array);
-    PrintArray(array);
-}
+Console.Clear();
+Console.Write("Введите кол-во строк: ");
+int row = int.Parse(Console.ReadLine()!);
+Console.Write("Введите кол-во столбцов: ");
+int col = int.Parse(Console.ReadLine()!);
+int[,] array = GetArray(row, col, 1, 9);
+PrintArray(array);
 
-Main();
+
+Console.WriteLine(string.Join(" ", array));
+SortArray(array);
+Console.WriteLine(string.Join(" ", array));
+PrintArray(array);
+

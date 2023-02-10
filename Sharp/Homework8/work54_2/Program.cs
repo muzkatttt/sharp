@@ -1,4 +1,4 @@
-﻿/* Задача 54. Задайте двумерный массив. Сортирует по столбцам
+﻿/* Задача 54. Задайте двумерный массив.
 Напишите программу, которая упорядочит 
 по убыванию элементы каждой строки двумерного массива.
 Например, задан массив
@@ -35,37 +35,42 @@ void PrintArray(int[,] inArray)
     }
 }
 
-void SortArray(int[,] array)
+int[,] SortArray(int[,] array)
 {
+    int temp = array[0, 0];
     for (int i = 0; i < array.GetLength(0); i++)
     {
-        for (int j = 0; j < array.GetLength(1) - 1; j++)
+        for (int j = 0; j < array.GetLength(1); j++)
         {
-            for (int q = 0; q < array.GetLength(1) - 1; q++)
+            for (int row = i; row < array.GetLength(0); row++)
             {
-                if (array[i, q] < array[i, q + 1])
+                for (int col = (row == i) ? j : 0; col < array.GetLength(1); col++)
                 {
-                    int temp = array[i, q + 1];
-                    array[i, q + 1] = array[i, q];
-                    array[i, q] = temp;
+                    if (array[i, j] < array[row, col])
+                    {
+                        temp = array[row, col];
+                        array[row, col] = array[i, j];
+                        array[i, j] = temp;
+                    }
                 }
             }
         }
     }
+    return array;
 }
 
-void Main()
-{
-    Console.Clear();
-    Console.Write("Введите кол-во строк: ");
-    int row = int.Parse(Console.ReadLine()!);
-    Console.Write("Введите кол-во столбцов: ");
-    int col = int.Parse(Console.ReadLine()!);
-    int[,] array = GetArray(row, row, 4, 13);
-    PrintArray(array);
-    Console.WriteLine();
-    SortArray(array);
-    PrintArray(array);
-}
 
-Main();
+Console.Clear();
+Console.Write("Введите кол-во строк: ");
+int row = int.Parse(Console.ReadLine()!);
+Console.Write("Введите кол-во столбцов: ");
+int col = int.Parse(Console.ReadLine()!);
+int[,] array = GetArray(row, col, 1, 9);
+PrintArray(array);
+
+int[,] myArray = SortArray(array);
+Console.WriteLine(string.Join(" ", array));
+SortArray(myArray);
+Console.WriteLine(string.Join(" ", array));
+PrintArray(array);
+
