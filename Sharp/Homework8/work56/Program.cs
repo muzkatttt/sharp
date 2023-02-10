@@ -39,22 +39,22 @@ void PrintArray(int[,] inArray)
 
 void MinIndexes(int[,] array)
 {
-    int row = 0;
-    int column = 0;
+    int temp = 0;
     for (int i = 0; i < array.GetLength(0); i++)
     {
+        int sum = 0;
+        int sumMin = 0;
         for (int j = 0; j < array.GetLength(1); j++)
         {
-            if (array[row, column] > array[i, j])
+            sum = array[i, j] + sum;
+            if (sum <= sumMin)
             {
-                row = i;
-                column = j;
+                sum = sumMin;
+                temp = i;
             }
+            Console.WriteLine($"Строка масива с наименьшей суммой {array[temp, j]}");
         }
-        Console.WriteLine($"Строка масива с наименшей суммой {array[row, column]}");
     }
-
-    // return new int[] { row, column };
 
 }
 

@@ -56,64 +56,47 @@ void PrintMatrix(int[,] myMatrix)
         Console.WriteLine();
     }
 }
-void Multiplication(int[,] mult)
-{
-    int m = 2;
-    int n = 2;
-    int[,] array = GetArray(m, n, 1, 3);
-    int[,] matrix = GetMatrix(m, n, 1, 3);
-    int[,] multMatrix = new int[2, 2];
-    for (int q = 0; q < multMatrix.GetLength(0); q++)
-    {
-        for (int w = 0; w < multMatrix.GetLength(1); w++)
-        {
-            if (q == 0)
-            {
-                if (q == w)
-                {
-                    multMatrix[0, 0] = (array[0, 0] * matrix[0, 0]) + (array[0, 1] * matrix[1, 0]);
-                }
-                else
-                {
-                    multMatrix[0, 1] = (array[0, 0] * matrix[0, 1]) + (array[0, 1] * matrix[1, 1]);
-                }
-                Console.Write($" X ");
-                Console.Write($"{multMatrix[q, w]}\t");
 
-            }
-            else if (q == 1)
+int[,] MultiplicationMatrix(int[,] array, int[,] matrix)
+{
+    int[,] multy = new int[array.GetLength(0), matrix.GetLength(1)];
+    for (int i = 0; i < array.GetLength(0); i++)
+    {
+        for (int j = 0; j < matrix.GetLength(1); j++)
+        {
+            for (int q = 0; q < matrix.GetLength(0); q++)
             {
-                if (q != w)
-                {
-                    multMatrix[1, 0] = (array[1, 0] * matrix[1, 0]) + (array[1, 1] * matrix[1, 0]);
-                }
-                else
-                {
-                    multMatrix[1, 1] = (array[1, 0] * matrix[0, 1]) + (array[1, 1] * matrix[1, 1]);
-                }
-                Console.Write($" , ");
-                Console.Write($"{multMatrix[q, w]}\t");
+                multy[i, j] += array[i, q] * matrix[q, j];
             }
-            // Console.Write($"Результирующая матрица {multMatrix[q, w]}\t");
-        }        //q  w          q  w           q  w          q  w           q  w
-        // multMatrix[0, 0] = array[0, 0] * matrix[0, 0] + array[0, 1] * matrix[1, 0];
-        // Console.Write(multMatrix[0, 0]);
-        // multMatrix[0, 1] = array[0, 0] * matrix[0, 1] + array[0, 1] * matrix[1, 1];
-        // Console.Write(multMatrix[0, 0]);
-        // multMatrix[1, 0] = array[1, 0] * matrix[1, 0] + array[1, 1] * matrix[1, 0];
-        // Console.Write(multMatrix[0, 0]);
-        // multMatrix[1, 1] = array[1, 0] * matrix[0, 1] + array[1, 1] * matrix[1, 1];
-        // Console.Write(multMatrix[0, 0]);
+        }
+    }
+    return multy;
+}
+
+void PrintMulty(int[,] myArray)
+{
+    for (int i = 0; i < myArray.GetLength(0); i++)
+    {
+        for (int j = 0; j < myArray.GetLength(1); j++)
+        {
+            Console.Write("{0} ", myArray[i, j]);
+        }
+        Console.WriteLine();
     }
 }
 
-Console.Clear();
+void Main()
+{
+    Console.Clear();
+    int[,] array = GetArray(m: 2, n: 2, minValue: 1, maxValue: 2);
+    PrintArray(array);
+    Console.WriteLine();
+    int[,] matrix = GetMatrix(m: 2, n: 2, minValue: 1, maxValue: 3);
+    PrintMatrix(matrix);
+    Console.WriteLine();
+    int[,] mult = MultiplicationMatrix(array, matrix);
+    PrintMulty(mult);
+}
 
-int[,] array = GetArray(m: 2, n: 2, minValue: 1, maxValue: 3);
-PrintArray(array);
-Console.WriteLine();
-int[,] matrix = GetMatrix(m: 2, n: 2, minValue: 1, maxValue: 3);
-PrintMatrix(matrix);
-Console.WriteLine();
-Multiplication(array);
+Main();
 
