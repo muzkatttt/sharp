@@ -22,7 +22,7 @@ void SpiralArray(int[,] array)
             col++;
         else if ((row < col) && (row + col >= array.GetLength(0) - 1))
             row++;
-        else if (row >= col && row + col > array.GetLength(1) - 1)
+        else if ((row >= col) && (row + col > array.GetLength(1) - 1))
             col = col - 1;
         else
             row = row - 1;
