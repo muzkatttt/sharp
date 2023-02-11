@@ -8,44 +8,51 @@
 27(0,0,1) 90(0,1,1)
 26(1,0,1) 55(1,1,1) */
 
-void FillArray(int[] array)
+
+int[] RandomArray(int nums, int minValue, int maxValue) // заполняю массив элементами
 {
-    Random random = new Random();
-    for (int i = 0; i < array.Length; i++)
+    int[] result = new int[nums];
+
+    for (int i = 0; i < nums; i++)
     {
-        array[i] = random.Next(10, 100);
+        result[i] = new Random().Next(minValue, maxValue + 1);
     }
+    return result;
 }
 
-void OutputArray(int[] array)
+void PrintArray(int[] array)
 {
-    for (int i = 0; i < array.Length; i++)
+    int count = array.Length;
+    for (int i = 0; i < count; i++)
     {
-        Console.Write(array[i] + " ");
+        Console.Write($"{array[i]}\t ");
     }
+    Console.WriteLine();
 }
 
-void ShuffleArray(int[] array)
+
+int[] Shuffle(int[] array)
 {
-    Random random = new Random();
-    for (int i = array.Length - 1; i >= 0; i--)
+    int random = new Random().Next();
+    for (int i = array.Length; i > 1; i--)
     {
-        int randomItem = random.Next(i);
-        int shuffledElement = array[randomItem];
-        array[randomItem] = array[i];
-        array[i] = shuffledElement;
+        int j = new Random().Next(i);
+        int temp = array[j];
+        array[j] = array[i - 1];
+        array[i - 1] = temp;
     }
+    return array;
 }
 
-void Main(string[] args)
+void Main()
 {
-    int[] array = new int[8];
-    FillArray(array);
-    Console.WriteLine("Исходный массив");
-    OutputArray(array);
-    ShuffleArray(array);
-    Console.WriteLine("\n Перемешанный массив");
-    OutputArray(array);
-}
+    Console.Clear();
+    int[] array = RandomArray(nums: 8, minValue: 10, maxValue: 100);
 
-Main(args);
+    PrintArray(array);
+    Console.WriteLine();
+    Shuffle(array);
+    PrintArray(array);
+
+}
+Main();
