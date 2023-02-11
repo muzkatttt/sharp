@@ -1,0 +1,15 @@
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework8/work62/bin/Debug/net6.0/work62
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework8/work62/bin/Debug/net6.0/work62.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework8/work62/bin/Debug/net6.0/work62.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework8/work62/bin/Debug/net6.0/work62.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework8/work62/bin/Debug/net6.0/work62.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework8/work62/obj/Debug/net6.0/work62.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework8/work62/obj/Debug/net6.0/work62.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework8/work62/obj/Debug/net6.0/work62.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework8/work62/obj/Debug/net6.0/work62.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework8/work62/obj/Debug/net6.0/work62.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework8/work62/obj/Debug/net6.0/work62.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework8/work62/obj/Debug/net6.0/refint/work62.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework8/work62/obj/Debug/net6.0/work62.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework8/work62/obj/Debug/net6.0/work62.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework8/work62/obj/Debug/net6.0/ref/work62.dll
