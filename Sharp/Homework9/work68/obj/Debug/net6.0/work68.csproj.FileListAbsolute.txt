@@ -1,0 +1,5 @@
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework9/work68/obj/Debug/net6.0/work68.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework9/work68/obj/Debug/net6.0/work68.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework9/work68/obj/Debug/net6.0/work68.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework9/work68/obj/Debug/net6.0/work68.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework9/work68/obj/Debug/net6.0/work68.csproj.CoreCompileInputs.cache
