@@ -10,13 +10,12 @@
 и выдает номер строки с наименьшей суммой элементов:
 1 строка */
 
-int[,] GetArray(int m, int n, int minValue, int maxValue)
+int[,] GetArray(int row, int col, int minValue, int maxValue)
 {
-    // n = m + 1;
-    int[,] result = new int[m, n];
-    for (int i = 0; i < m; i++)
+    int[,] result = new int[row, col];
+    for (int i = 0; i < row; i++)
     {
-        for (int j = 0; j < n; j++)
+        for (int j = 0; j < col; j++)
         {
             result[i, j] = new Random().Next(minValue, maxValue + 1);
         }
@@ -34,35 +33,39 @@ void PrintArray(int[,] inArray)
         }
         Console.WriteLine();
     }
+    Console.WriteLine();
 }
 
 
 void MinIndexes(int[,] array)
 {
-    int temp = 0;
+    int minRow = 0;
+    int minSumRow = 0;
+    int sum = 0;
+    for (int i = 0; i < array.GetLength(1); i++)
+    {
+        minRow += array[0, i];
+    }
     for (int i = 0; i < array.GetLength(0); i++)
     {
-        int sum = 0;
-        int sumMin = 0;
         for (int j = 0; j < array.GetLength(1); j++)
         {
-            sum = array[i, j] + sum;
-            if (sum <= sumMin)
-            {
-                sum = sumMin;
-                temp = i;
-            }
-            Console.WriteLine($"Строка масива с наименьшей суммой {array[temp, j]}");
+            sum += array[i, j];
         }
+        if (sum < minRow)
+        {
+            minRow = sum;
+            minSumRow = i;
+        }
+        sum = 0;
     }
-
+    Console.Write($"Номер строки с наименьшей суммой элементов:\t {minSumRow} строка");
 }
-
-
 Console.Clear();
 Console.Write("Введите кол-во строк: ");
 int row = int.Parse(Console.ReadLine()!);
-int col = row + 2;
-int[,] array = GetArray(row, col, 0, 10);
+Console.Write("Введите кол-во столбцов: ");
+int col = int.Parse(Console.ReadLine()!);
+int[,] array = GetArray(row, col, 4, 13);
 PrintArray(array);
 MinIndexes(array);
