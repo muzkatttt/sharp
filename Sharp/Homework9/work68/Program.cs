@@ -11,5 +11,16 @@ int AkkermanFunction(int m, int n)
     if (m == 0) return a = n + 1;
     else if (m > 0 && n > 0) return a = AkkermanFunction(m - 1, AkkermanFunction(m, n - 1));
     else if (m > 0 && n == 0) return a = AkkermanFunction(m - 1, 1);
+    return a;
 }
-Console.WriteLine(AkkermanFunction(3, 2));
+
+void Main()
+{
+    System.Console.WriteLine("Введите неотрицательное число m: ");
+    int m = int.Parse(Console.ReadLine()!);
+    System.Console.WriteLine("Введите неотрицательное число n: ");
+    int n = int.Parse(Console.ReadLine()!);
+    Console.WriteLine();
+    Console.WriteLine(AkkermanFunction(m, n));
+}
+Main();

@@ -3,3 +3,13 @@
 /Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework9/work68/obj/Debug/net6.0/work68.AssemblyInfoInputs.cache
 /Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework9/work68/obj/Debug/net6.0/work68.AssemblyInfo.cs
 /Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework9/work68/obj/Debug/net6.0/work68.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework9/work68/bin/Debug/net6.0/work68
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework9/work68/bin/Debug/net6.0/work68.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework9/work68/bin/Debug/net6.0/work68.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework9/work68/bin/Debug/net6.0/work68.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework9/work68/bin/Debug/net6.0/work68.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework9/work68/obj/Debug/net6.0/work68.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework9/work68/obj/Debug/net6.0/refint/work68.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework9/work68/obj/Debug/net6.0/work68.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework9/work68/obj/Debug/net6.0/work68.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Homework9/work68/obj/Debug/net6.0/ref/work68.dll
