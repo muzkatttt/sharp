@@ -1,0 +1,15 @@
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem9/work65/bin/Debug/net6.0/work65
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem9/work65/bin/Debug/net6.0/work65.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem9/work65/bin/Debug/net6.0/work65.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem9/work65/bin/Debug/net6.0/work65.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem9/work65/bin/Debug/net6.0/work65.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem9/work65/obj/Debug/net6.0/work65.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem9/work65/obj/Debug/net6.0/work65.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem9/work65/obj/Debug/net6.0/work65.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem9/work65/obj/Debug/net6.0/work65.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem9/work65/obj/Debug/net6.0/work65.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem9/work65/obj/Debug/net6.0/work65.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem9/work65/obj/Debug/net6.0/refint/work65.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem9/work65/obj/Debug/net6.0/work65.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem9/work65/obj/Debug/net6.0/work65.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Sem9/work65/obj/Debug/net6.0/ref/work65.dll
