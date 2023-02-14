@@ -1,0 +1,15 @@
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example13_Recursion/obj/Debug/net6.0/Example13_Recursion.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example13_Recursion/obj/Debug/net6.0/Example13_Recursion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example13_Recursion/obj/Debug/net6.0/Example13_Recursion.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example13_Recursion/obj/Debug/net6.0/Example13_Recursion.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example13_Recursion/obj/Debug/net6.0/Example13_Recursion.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example13_Recursion/bin/Debug/net6.0/Example13_Recursion
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example13_Recursion/bin/Debug/net6.0/Example13_Recursion.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example13_Recursion/bin/Debug/net6.0/Example13_Recursion.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example13_Recursion/bin/Debug/net6.0/Example13_Recursion.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example13_Recursion/bin/Debug/net6.0/Example13_Recursion.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example13_Recursion/obj/Debug/net6.0/Example13_Recursion.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example13_Recursion/obj/Debug/net6.0/refint/Example13_Recursion.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example13_Recursion/obj/Debug/net6.0/Example13_Recursion.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example13_Recursion/obj/Debug/net6.0/Example13_Recursion.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example13_Recursion/obj/Debug/net6.0/ref/Example13_Recursion.dll

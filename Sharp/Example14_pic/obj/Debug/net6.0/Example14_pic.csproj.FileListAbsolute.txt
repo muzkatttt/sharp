@@ -1,0 +1,15 @@
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example14_pic/obj/Debug/net6.0/Example14_pic.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example14_pic/obj/Debug/net6.0/Example14_pic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example14_pic/obj/Debug/net6.0/Example14_pic.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example14_pic/obj/Debug/net6.0/Example14_pic.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example14_pic/obj/Debug/net6.0/Example14_pic.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example14_pic/bin/Debug/net6.0/Example14_pic
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example14_pic/bin/Debug/net6.0/Example14_pic.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example14_pic/bin/Debug/net6.0/Example14_pic.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example14_pic/bin/Debug/net6.0/Example14_pic.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example14_pic/bin/Debug/net6.0/Example14_pic.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example14_pic/obj/Debug/net6.0/Example14_pic.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example14_pic/obj/Debug/net6.0/refint/Example14_pic.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example14_pic/obj/Debug/net6.0/Example14_pic.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example14_pic/obj/Debug/net6.0/Example14_pic.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example14_pic/obj/Debug/net6.0/ref/Example14_pic.dll

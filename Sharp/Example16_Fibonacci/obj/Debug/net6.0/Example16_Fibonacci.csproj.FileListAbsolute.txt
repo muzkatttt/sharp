@@ -1,0 +1,15 @@
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example16_Fibonacci/obj/Debug/net6.0/Example16_Fibonacci.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example16_Fibonacci/obj/Debug/net6.0/Example16_Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example16_Fibonacci/obj/Debug/net6.0/Example16_Fibonacci.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example16_Fibonacci/obj/Debug/net6.0/Example16_Fibonacci.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example16_Fibonacci/obj/Debug/net6.0/Example16_Fibonacci.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example16_Fibonacci/bin/Debug/net6.0/Example16_Fibonacci
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example16_Fibonacci/bin/Debug/net6.0/Example16_Fibonacci.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example16_Fibonacci/bin/Debug/net6.0/Example16_Fibonacci.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example16_Fibonacci/bin/Debug/net6.0/Example16_Fibonacci.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example16_Fibonacci/bin/Debug/net6.0/Example16_Fibonacci.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example16_Fibonacci/obj/Debug/net6.0/Example16_Fibonacci.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example16_Fibonacci/obj/Debug/net6.0/refint/Example16_Fibonacci.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example16_Fibonacci/obj/Debug/net6.0/Example16_Fibonacci.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example16_Fibonacci/obj/Debug/net6.0/Example16_Fibonacci.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example16_Fibonacci/obj/Debug/net6.0/ref/Example16_Fibonacci.dll

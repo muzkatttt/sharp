@@ -1,0 +1,15 @@
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example15_Factorial/bin/Debug/net6.0/Example15_Factorial
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example15_Factorial/bin/Debug/net6.0/Example15_Factorial.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example15_Factorial/bin/Debug/net6.0/Example15_Factorial.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example15_Factorial/bin/Debug/net6.0/Example15_Factorial.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example15_Factorial/bin/Debug/net6.0/Example15_Factorial.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example15_Factorial/obj/Debug/net6.0/Example15_Factorial.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example15_Factorial/obj/Debug/net6.0/Example15_Factorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example15_Factorial/obj/Debug/net6.0/Example15_Factorial.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example15_Factorial/obj/Debug/net6.0/Example15_Factorial.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example15_Factorial/obj/Debug/net6.0/Example15_Factorial.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example15_Factorial/obj/Debug/net6.0/Example15_Factorial.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example15_Factorial/obj/Debug/net6.0/refint/Example15_Factorial.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example15_Factorial/obj/Debug/net6.0/Example15_Factorial.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example15_Factorial/obj/Debug/net6.0/Example15_Factorial.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example15_Factorial/obj/Debug/net6.0/ref/Example15_Factorial.dll
