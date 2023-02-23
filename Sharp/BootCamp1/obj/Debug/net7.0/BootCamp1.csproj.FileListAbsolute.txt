@@ -1,0 +1,15 @@
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/BootCamp1/bin/Debug/net7.0/BootCamp1
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/BootCamp1/bin/Debug/net7.0/BootCamp1.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/BootCamp1/bin/Debug/net7.0/BootCamp1.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/BootCamp1/bin/Debug/net7.0/BootCamp1.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/BootCamp1/bin/Debug/net7.0/BootCamp1.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/BootCamp1/obj/Debug/net7.0/BootCamp1.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/BootCamp1/obj/Debug/net7.0/BootCamp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/BootCamp1/obj/Debug/net7.0/BootCamp1.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/BootCamp1/obj/Debug/net7.0/BootCamp1.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/BootCamp1/obj/Debug/net7.0/BootCamp1.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/BootCamp1/obj/Debug/net7.0/BootCamp1.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/BootCamp1/obj/Debug/net7.0/refint/BootCamp1.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/BootCamp1/obj/Debug/net7.0/BootCamp1.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/BootCamp1/obj/Debug/net7.0/BootCamp1.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/BootCamp1/obj/Debug/net7.0/ref/BootCamp1.dll
