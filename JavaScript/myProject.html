@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Сортировка</title>
+
+  <script>
+    function getRandom(n) {
+      return Math.round(Math.random() * n);
+    }
+
+    function getArray(count) {
+      var tempArray = [];
+      for (let i = 0; i < count; i++) {
+        tempArray.push(getRandom(10))
+      }
+      return tempArray;
+    }
+
+
+    var numbers = getArray(10);
+    // alert(arr);
+    document.write(numbers + "  <<< исходные данные<br>");
+    var size = numbers.length;
+
+    for (var current = 0; current < size - 1; current++) {
+
+      var position = current;
+
+      for (var i = current + 1; i < size; i++) {
+        if (numbers[i] > numbers[position]) {
+          position = i;
+        }
+      }
+      var temp = numbers[current];
+      numbers[current] = numbers[position];
+      numbers[position] = temp;
+
+      document.write(numbers + ` <<<  ${current + 1} повтор<br>`);
+
+    }
+  </script>
+
+</head>
+
+<body>
+
+</body>
+
+</html>

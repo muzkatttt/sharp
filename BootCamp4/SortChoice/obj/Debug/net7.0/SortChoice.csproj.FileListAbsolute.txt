@@ -1,0 +1,5 @@
+/Users/ekaterinarodionova/Desktop/MyLib/BootCamp4/SortChoice/obj/Debug/net7.0/SortChoice.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/BootCamp4/SortChoice/obj/Debug/net7.0/SortChoice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/BootCamp4/SortChoice/obj/Debug/net7.0/SortChoice.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/BootCamp4/SortChoice/obj/Debug/net7.0/SortChoice.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/BootCamp4/SortChoice/obj/Debug/net7.0/SortChoice.csproj.CoreCompileInputs.cache

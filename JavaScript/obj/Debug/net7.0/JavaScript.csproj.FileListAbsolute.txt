@@ -1,0 +1,15 @@
+/Users/ekaterinarodionova/Desktop/MyLib/JavaScript/bin/Debug/net7.0/JavaScript
+/Users/ekaterinarodionova/Desktop/MyLib/JavaScript/bin/Debug/net7.0/JavaScript.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/JavaScript/bin/Debug/net7.0/JavaScript.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/JavaScript/bin/Debug/net7.0/JavaScript.dll
+/Users/ekaterinarodionova/Desktop/MyLib/JavaScript/bin/Debug/net7.0/JavaScript.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/JavaScript/obj/Debug/net7.0/JavaScript.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/JavaScript/obj/Debug/net7.0/JavaScript.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/JavaScript/obj/Debug/net7.0/JavaScript.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/JavaScript/obj/Debug/net7.0/JavaScript.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/JavaScript/obj/Debug/net7.0/JavaScript.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/JavaScript/obj/Debug/net7.0/JavaScript.dll
+/Users/ekaterinarodionova/Desktop/MyLib/JavaScript/obj/Debug/net7.0/refint/JavaScript.dll
+/Users/ekaterinarodionova/Desktop/MyLib/JavaScript/obj/Debug/net7.0/JavaScript.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/JavaScript/obj/Debug/net7.0/JavaScript.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/JavaScript/obj/Debug/net7.0/ref/JavaScript.dll

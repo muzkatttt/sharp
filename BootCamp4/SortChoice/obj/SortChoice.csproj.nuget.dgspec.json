@@ -1,30 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ekaterinarodionova/Desktop/MyLib/Sem4_4/Sem4_4.csproj": {}
+    "/Users/ekaterinarodionova/Desktop/MyLib/BootCamp4/SortChoice/SortChoice.csproj": {}
   },
   "projects": {
-    "/Users/ekaterinarodionova/Desktop/MyLib/Sem4_4/Sem4_4.csproj": {
+    "/Users/ekaterinarodionova/Desktop/MyLib/BootCamp4/SortChoice/SortChoice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ekaterinarodionova/Desktop/MyLib/Sem4_4/Sem4_4.csproj",
-        "projectName": "Sem4_4",
-        "projectPath": "/Users/ekaterinarodionova/Desktop/MyLib/Sem4_4/Sem4_4.csproj",
+        "projectUniqueName": "/Users/ekaterinarodionova/Desktop/MyLib/BootCamp4/SortChoice/SortChoice.csproj",
+        "projectName": "SortChoice",
+        "projectPath": "/Users/ekaterinarodionova/Desktop/MyLib/BootCamp4/SortChoice/SortChoice.csproj",
         "packagesPath": "/Users/ekaterinarodionova/.nuget/packages/",
-        "outputPath": "/Users/ekaterinarodionova/Desktop/MyLib/Sem4_4/obj/",
+        "outputPath": "/Users/ekaterinarodionova/Desktop/MyLib/BootCamp4/SortChoice/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ekaterinarodionova/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net7.0"
         ],
         "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -35,8 +36,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
@@ -53,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.405/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.103/RuntimeIdentifierGraph.json"
         }
       }
     }
