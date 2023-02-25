@@ -1,0 +1,15 @@
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/MyProject/bin/Debug/net7.0/MyProject
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/MyProject/bin/Debug/net7.0/MyProject.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/MyProject/bin/Debug/net7.0/MyProject.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/MyProject/bin/Debug/net7.0/MyProject.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/MyProject/bin/Debug/net7.0/MyProject.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/MyProject/obj/Debug/net7.0/MyProject.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/MyProject/obj/Debug/net7.0/MyProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/MyProject/obj/Debug/net7.0/MyProject.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/MyProject/obj/Debug/net7.0/MyProject.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/MyProject/obj/Debug/net7.0/MyProject.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/MyProject/obj/Debug/net7.0/MyProject.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/MyProject/obj/Debug/net7.0/refint/MyProject.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/MyProject/obj/Debug/net7.0/MyProject.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/MyProject/obj/Debug/net7.0/MyProject.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/MyProject/obj/Debug/net7.0/ref/MyProject.dll
