@@ -1,0 +1,15 @@
+/Users/ekaterinarodionova/Desktop/MyLib/MyProjects/ProjectFirst/bin/Debug/net7.0/ProjectFirst
+/Users/ekaterinarodionova/Desktop/MyLib/MyProjects/ProjectFirst/bin/Debug/net7.0/ProjectFirst.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/MyProjects/ProjectFirst/bin/Debug/net7.0/ProjectFirst.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/MyProjects/ProjectFirst/bin/Debug/net7.0/ProjectFirst.dll
+/Users/ekaterinarodionova/Desktop/MyLib/MyProjects/ProjectFirst/bin/Debug/net7.0/ProjectFirst.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/MyProjects/ProjectFirst/obj/Debug/net7.0/ProjectFirst.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/MyProjects/ProjectFirst/obj/Debug/net7.0/ProjectFirst.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/MyProjects/ProjectFirst/obj/Debug/net7.0/ProjectFirst.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/MyProjects/ProjectFirst/obj/Debug/net7.0/ProjectFirst.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/MyProjects/ProjectFirst/obj/Debug/net7.0/ProjectFirst.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/MyProjects/ProjectFirst/obj/Debug/net7.0/ProjectFirst.dll
+/Users/ekaterinarodionova/Desktop/MyLib/MyProjects/ProjectFirst/obj/Debug/net7.0/refint/ProjectFirst.dll
+/Users/ekaterinarodionova/Desktop/MyLib/MyProjects/ProjectFirst/obj/Debug/net7.0/ProjectFirst.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/MyProjects/ProjectFirst/obj/Debug/net7.0/ProjectFirst.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/MyProjects/ProjectFirst/obj/Debug/net7.0/ref/ProjectFirst.dll
