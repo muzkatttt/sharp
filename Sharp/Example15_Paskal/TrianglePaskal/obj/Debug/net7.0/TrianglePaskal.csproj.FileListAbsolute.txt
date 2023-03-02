@@ -1,0 +1,15 @@
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example15_Paskal/TrianglePaskal/bin/Debug/net7.0/TrianglePaskal
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example15_Paskal/TrianglePaskal/bin/Debug/net7.0/TrianglePaskal.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example15_Paskal/TrianglePaskal/bin/Debug/net7.0/TrianglePaskal.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example15_Paskal/TrianglePaskal/bin/Debug/net7.0/TrianglePaskal.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example15_Paskal/TrianglePaskal/bin/Debug/net7.0/TrianglePaskal.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example15_Paskal/TrianglePaskal/obj/Debug/net7.0/TrianglePaskal.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example15_Paskal/TrianglePaskal/obj/Debug/net7.0/TrianglePaskal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example15_Paskal/TrianglePaskal/obj/Debug/net7.0/TrianglePaskal.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example15_Paskal/TrianglePaskal/obj/Debug/net7.0/TrianglePaskal.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example15_Paskal/TrianglePaskal/obj/Debug/net7.0/TrianglePaskal.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example15_Paskal/TrianglePaskal/obj/Debug/net7.0/TrianglePaskal.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example15_Paskal/TrianglePaskal/obj/Debug/net7.0/refint/TrianglePaskal.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example15_Paskal/TrianglePaskal/obj/Debug/net7.0/TrianglePaskal.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example15_Paskal/TrianglePaskal/obj/Debug/net7.0/TrianglePaskal.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/Example15_Paskal/TrianglePaskal/obj/Debug/net7.0/ref/TrianglePaskal.dll
