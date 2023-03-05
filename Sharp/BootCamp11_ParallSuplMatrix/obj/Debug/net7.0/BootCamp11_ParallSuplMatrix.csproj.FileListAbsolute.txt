@@ -1,0 +1,15 @@
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/BootCamp11_ParallSuplMatrix/obj/Debug/net7.0/BootCamp11_ParallSuplMatrix.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/BootCamp11_ParallSuplMatrix/obj/Debug/net7.0/BootCamp11_ParallSuplMatrix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/BootCamp11_ParallSuplMatrix/obj/Debug/net7.0/BootCamp11_ParallSuplMatrix.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/BootCamp11_ParallSuplMatrix/obj/Debug/net7.0/BootCamp11_ParallSuplMatrix.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/BootCamp11_ParallSuplMatrix/obj/Debug/net7.0/BootCamp11_ParallSuplMatrix.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/BootCamp11_ParallSuplMatrix/bin/Debug/net7.0/BootCamp11_ParallSuplMatrix
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/BootCamp11_ParallSuplMatrix/bin/Debug/net7.0/BootCamp11_ParallSuplMatrix.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/BootCamp11_ParallSuplMatrix/bin/Debug/net7.0/BootCamp11_ParallSuplMatrix.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/BootCamp11_ParallSuplMatrix/bin/Debug/net7.0/BootCamp11_ParallSuplMatrix.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/BootCamp11_ParallSuplMatrix/bin/Debug/net7.0/BootCamp11_ParallSuplMatrix.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/BootCamp11_ParallSuplMatrix/obj/Debug/net7.0/BootCamp11_ParallSuplMatrix.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/BootCamp11_ParallSuplMatrix/obj/Debug/net7.0/refint/BootCamp11_ParallSuplMatrix.dll
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/BootCamp11_ParallSuplMatrix/obj/Debug/net7.0/BootCamp11_ParallSuplMatrix.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/BootCamp11_ParallSuplMatrix/obj/Debug/net7.0/BootCamp11_ParallSuplMatrix.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/Sharp/BootCamp11_ParallSuplMatrix/obj/Debug/net7.0/ref/BootCamp11_ParallSuplMatrix.dll

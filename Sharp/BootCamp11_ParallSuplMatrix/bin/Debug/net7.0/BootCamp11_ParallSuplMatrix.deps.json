@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BootCamp11_ParallSuplMatrix/1.0.0": {
+        "runtime": {
+          "BootCamp11_ParallSuplMatrix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BootCamp11_ParallSuplMatrix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

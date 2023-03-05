@@ -1,0 +1,15 @@
+/Users/ekaterinarodionova/Desktop/MyLib/BootCamp4/SortBubble/bin/Debug/net7.0/SortBubble
+/Users/ekaterinarodionova/Desktop/MyLib/BootCamp4/SortBubble/bin/Debug/net7.0/SortBubble.deps.json
+/Users/ekaterinarodionova/Desktop/MyLib/BootCamp4/SortBubble/bin/Debug/net7.0/SortBubble.runtimeconfig.json
+/Users/ekaterinarodionova/Desktop/MyLib/BootCamp4/SortBubble/bin/Debug/net7.0/SortBubble.dll
+/Users/ekaterinarodionova/Desktop/MyLib/BootCamp4/SortBubble/bin/Debug/net7.0/SortBubble.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/BootCamp4/SortBubble/obj/Debug/net7.0/SortBubble.csproj.AssemblyReference.cache
+/Users/ekaterinarodionova/Desktop/MyLib/BootCamp4/SortBubble/obj/Debug/net7.0/SortBubble.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinarodionova/Desktop/MyLib/BootCamp4/SortBubble/obj/Debug/net7.0/SortBubble.AssemblyInfoInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/BootCamp4/SortBubble/obj/Debug/net7.0/SortBubble.AssemblyInfo.cs
+/Users/ekaterinarodionova/Desktop/MyLib/BootCamp4/SortBubble/obj/Debug/net7.0/SortBubble.csproj.CoreCompileInputs.cache
+/Users/ekaterinarodionova/Desktop/MyLib/BootCamp4/SortBubble/obj/Debug/net7.0/SortBubble.dll
+/Users/ekaterinarodionova/Desktop/MyLib/BootCamp4/SortBubble/obj/Debug/net7.0/refint/SortBubble.dll
+/Users/ekaterinarodionova/Desktop/MyLib/BootCamp4/SortBubble/obj/Debug/net7.0/SortBubble.pdb
+/Users/ekaterinarodionova/Desktop/MyLib/BootCamp4/SortBubble/obj/Debug/net7.0/SortBubble.genruntimeconfig.cache
+/Users/ekaterinarodionova/Desktop/MyLib/BootCamp4/SortBubble/obj/Debug/net7.0/ref/SortBubble.dll
